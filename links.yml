@@ -1,0 +1,176 @@
+---
+################
+## 网址导航页面配置
+################
+# 网站标题
+title: 小枣软件工具屋
+# 网站 LOGO（可选）
+# logo: https://webstack.cc/assets/images/logo@2x.png
+# 网址导航页面关键字（可选）
+keywords: 网址导航,网站导航,上网导航,网址大全,常用网站,推荐网站,个人导航,个人书签,个人主页,hao123上网导航,hao123导航,hao123网址大全,GenEasy,Github,Github Pages,SSG
+# 网址导航页面描述（可选）
+description: 网址导航静态页面通用模板。
+# 网址导航页面 URL（可选）
+url: https://geneasy.github.io/nav/
+# Favicon（可选）
+shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
+# 社交分享图片（可选）
+og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+# 主页 URL
+home_url: https://geneasy.github.io/nav/
+# GitHub 链接（可选）
+github_url: https://github.com/geneasy/nav
+# 网站 about 链接（可选）
+about_url: https://github.com/geneasy/nav
+# 提交链接的 URL
+link_submission_url: https://github.com/geneasy/nav/issues
+# 网站友情链接（可选）
+#friendship_links_url: https://geneasy.github.io/links/
+# Google Analytics Code（可选）
+# ga_tracking_code_id: G-ABCDEFG
+
+################
+## 导航栏
+################
+navigation_urls:
+  - title: 目录
+#    url: page1/
+# - title: 页面2
+#   url: page2/
+
+################
+## 网址导航数据
+################
+categories:
+  - category: 影视
+    icon: linecons-star
+    links:
+      - title: 肥波影视
+        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
+        url: https://mp.weixin.qq.com/s?__biz=Mzg3MzY5OTk4NQ==&mid=2247484363&idx=1&sn=fd3888a294aa9643f19a8785cc2fc739&chksm=cedd4c35f9aac5233067844477e2b4728a67aac0269b34f29abf7d0f421aa6f2b528fe56dced#rd
+        description: 安卓/苹果
+        #tags: 程序员,问答,社区,stackoverflow
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+        tags: 程序员,生活,创意
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+        tags: 程序员,生活,创意
+      - title: Pipecraft 社区
+        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
+        url: https://discuss.cn.pipecraft.net/
+        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
+        tags: RSS,Atom,聚合新闻,内容订阅
+
+  - category: 音乐
+    hide_menu: true
+    icon: linecons-star
+    links:
+      - title: 抛砖问答
+        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
+        url: https://pzwd.net/
+        description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
+        tags: 程序员,问答,社区,stackoverflow
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+        tags: 程序员,生活,创意
+      - title: Pipecraft 社区
+        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
+        url: https://discuss.cn.pipecraft.net/
+        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
+        tags: RSS,Atom,聚合新闻,内容订阅
+      - title: GenEasy
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/geneasy
+        description: A command line tool that can easily generate HTML, Markdown documents, etc.
+        tags: cli,tools
+
+  - category: 漫画动漫
+    icon: linecons-doc
+    links:
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+        tags: 程序员,生活,创意
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+
+  - category: 下载工具
+    icon: linecons-doc
+    links:
+      - title: viggo
+        logo: https://images.weserv.nl/?url=work.viggoz.com/images/favicon.png&w=60&h=60
+        url: http://blog.viggoz.com/
+        description: Webstack 的设计师
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+
+  - category: 学习工具
+    icon: linecons-doc
+    links:
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+      - title: 等你来加➕
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
+        url: https://github.com/geneasy/nav/issues
+        description: 快来提交你的网站吧
+
+  - category: 视频剪辑
+    icon: linecons-doc
+    links:
+      - title: 抛砖问答
+        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
+        url: https://pzwd.net/
+        description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
+        tags: 程序员,问答,社区,stackoverflow
+      - title: 独立开发者社区
+        logo: https://indiehackers-1251406926.cos.ap-chengdu.myqcloud.com/hackers/7cl3u.png
+        url: https://w2solo.com/
+        description: 「w2solo.com」独立开发者社区，由众多独立开发者维护，致力于搭建和维护好国内独立开发者圈子和氛围。
+      - title: Pipecraft 社区
+        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
+        url: https://discuss.cn.pipecraft.net/
+        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
+        tags: RSS,Atom,聚合新闻,内容订阅
+      - title: P站问答
+        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
+        url: https://pzwd.net/
+        description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
+        tags: 程序员,问答,社区,stackoverflow
